@@ -1,0 +1,23 @@
+.box-model {
+  background-color: aqua;
+  display: flow-root;
+}
+
+.box-model p {
+  display: block;
+  border: 5px solid black;
+  margin: 40px;
+  padding: 40px;
+  background-color: aliceblue;
+}
+
+.section-centering {
+  width: 1200px;
+  background-color: aquamarine;
+  margin: 50px;
+  padding: 60px;
+  border: 8px solid yellow;
+  display: flow-root;
+
+}
+

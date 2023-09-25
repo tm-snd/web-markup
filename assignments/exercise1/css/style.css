@@ -1,0 +1,16 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  margin: 20px;
+  padding: 20px;
+  font: 50px;
+  text-align: center;
+}
+
+section {
+  display: flex;
+  width: 1000px;
+  height: 800px;
+  border: solid red 5px;
+}
